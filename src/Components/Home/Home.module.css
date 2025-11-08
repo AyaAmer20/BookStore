@@ -1,0 +1,15 @@
+.Home {
+  background-image: url('../../image/shop.jpg');
+  background-repeat: no-repeat;
+  background-position: center;  
+  background-size: cover;        
+  height: 100vh;  
+  opacity: 0.8;  
+  position: sticky;
+             
+}
+.Home h1{
+    text-align: center;
+    color: rgba(219, 205, 81, 0.5);
+    padding: 110px;
+}
